@@ -46,5 +46,5 @@ po/*~
 
 # data folder
 exdata_data_household_power_consumption/
-.Rproj.user
+ExData_Plotting1.Rproj
 week1_assignment.R
